@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Cars_with_Strategy/Cars_with_Strategy.iml" filepath="$PROJECT_DIR$/Cars_with_Strategy/Cars_with_Strategy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Currency_with_Observer/Currency_with_Observer.iml" filepath="$PROJECT_DIR$/Currency_with_Observer/Currency_with_Observer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Currency_without_Observer/Currency_without_Observer.iml" filepath="$PROJECT_DIR$/Currency_without_Observer/Currency_without_Observer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Decorator/Decorator.iml" filepath="$PROJECT_DIR$/Decorator/Decorator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Lecture10.iml" filepath="$PROJECT_DIR$/.idea/Lecture10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Singleton/Singleton.iml" filepath="$PROJECT_DIR$/Singleton/Singleton.iml" />
+    </modules>
+  </component>
+</project>
